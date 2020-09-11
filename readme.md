@@ -2,5 +2,5 @@
 
 ## Alumnos que trabajan en el proyecto: 
 ```
-* [Bryan "Ripterdust" Arévalo](https://github.com/ripterdust "Github profile")
+ [Bryan "Ripterdust" Arévalo](https://github.com/ripterdust "Github profile")
 ```

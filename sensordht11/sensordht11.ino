@@ -11,7 +11,6 @@ const char* password = "Panzon9599";                //Contraseña de vuestro rou
 unsigned long channelID = 1128073;                //ID de vuestro canal.
 const char* WriteAPIKey = "63V3LPO7JRE5IJH7";     //Write API Key de vuestro canal.
 
-
 WiFiClient client;
 
 DHT dht1(pin1, DHT11);    //El azul.
